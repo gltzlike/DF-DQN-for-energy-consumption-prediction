@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data_preprocessing/data_preprocessing.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_preprocessing/test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddpg_agent.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/experiments/DF-DQN/N_Class=1/DF-DQN_index=0/log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiments/DF-DQN/N_Class=2/DF-DQN_index=0/log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiments/DF-DQN/N_Class=6/DF-DQN_index=0/DF-DQN_N_Class=6_index=0_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiments/DF-DQN/N_Class=6/DF-DQN_index=2/DF-DQN_N_Class=6_index=2_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiments/DQN/DQN_index=0/DQN_index=0_log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiments/DQN/DQN_index=1/log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result/analysis.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/result/result.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

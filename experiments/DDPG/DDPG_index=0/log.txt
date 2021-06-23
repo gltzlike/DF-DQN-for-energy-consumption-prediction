@@ -1,0 +1,11 @@
+iterations: 0
+Episode 0 : -1096704.15
+Episode 1 : -1409579.45
+Episode 2 : -505322.74
+Episode 3 : -93153.34
+Episode 4 : -77792.25
+
+training set: 
+MAE: 636.5103845961917
+RMSE: 980.9123286241904
+CV: 2.4584583434938243
