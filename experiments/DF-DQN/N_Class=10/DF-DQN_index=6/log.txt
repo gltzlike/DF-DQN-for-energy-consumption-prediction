@@ -1,0 +1,222 @@
+划分 10 类的情况下，第 6 次循环
+动作空间划分 10 类，总动作个数为 94.0 个
+
+acc_test: 84.290 %
+
+Episode 0 : -31492.01
+Episode 1 : -31981.87
+Episode 2 : -27999.60
+Episode 3 : -26394.92
+Episode 4 : -24390.61
+Episode 5 : -25186.91
+Episode 6 : -25332.58
+Episode 7 : -22940.44
+Episode 8 : -24970.23
+Episode 9 : -23523.39
+Episode 10 : -21278.58
+Episode 11 : -24157.25
+Episode 12 : -25538.17
+Episode 13 : -16574.34
+Episode 14 : -24253.23
+Episode 15 : -22167.69
+Episode 16 : -21549.31
+Episode 17 : -23494.78
+Episode 18 : -24008.15
+Episode 19 : -19851.34
+Episode 20 : -24571.34
+Episode 21 : -21629.11
+Episode 22 : -20823.66
+Episode 23 : -21119.98
+Episode 24 : -19468.68
+Episode 25 : -21854.21
+Episode 26 : -21686.91
+Episode 27 : -21931.91
+Episode 28 : -19802.01
+Episode 29 : -22316.30
+Episode 30 : -19342.64
+Episode 31 : -19973.71
+Episode 32 : -20182.30
+Episode 33 : -19397.43
+Episode 34 : -21019.67
+Episode 35 : -917.04
+Episode 36 : -20348.17
+Episode 37 : -19125.46
+Episode 38 : -18367.01
+Episode 39 : -19449.44
+Episode 40 : -19997.25
+Episode 41 : -20457.49
+Episode 42 : -22837.05
+Episode 43 : -18492.07
+Episode 44 : -19918.87
+Episode 45 : -18920.63
+Episode 46 : -6677.73
+Episode 47 : -18433.96
+Episode 48 : -19927.69
+Episode 49 : -18780.95
+Episode 50 : -19824.80
+Episode 51 : -19044.96
+Episode 52 : -19511.65
+Episode 53 : -19127.41
+Episode 54 : -18080.78
+Episode 55 : -19070.50
+Episode 56 : -18078.93
+Episode 57 : -17672.39
+Episode 58 : -18154.79
+Episode 59 : -18759.89
+Episode 60 : -955.84
+Episode 61 : -20918.96
+Episode 62 : -17217.73
+Episode 63 : -18250.03
+Episode 64 : -17951.66
+Episode 65 : -16727.16
+Episode 66 : -18506.28
+Episode 67 : -16938.74
+Episode 68 : -17114.37
+Episode 69 : -16840.68
+Episode 70 : -19758.42
+Episode 71 : -18283.36
+Episode 72 : -18449.39
+Episode 73 : -18511.14
+Episode 74 : -18052.79
+Episode 75 : -20186.51
+Episode 76 : -19066.50
+Episode 77 : -19643.24
+Episode 78 : -18229.20
+Episode 79 : -20437.52
+Episode 80 : -17051.48
+Episode 81 : -17980.51
+Episode 82 : -16410.67
+Episode 83 : -18190.40
+Episode 84 : -19757.06
+Episode 85 : -20864.36
+Episode 86 : -18150.19
+Episode 87 : -17539.42
+Episode 88 : -18047.86
+Episode 89 : -16740.78
+Episode 90 : -19551.47
+Episode 91 : -16517.80
+Episode 92 : -18944.39
+Episode 93 : -15813.53
+Episode 94 : -16785.84
+Episode 95 : -16397.51
+Episode 96 : -17385.95
+Episode 97 : -17771.33
+Episode 98 : -21176.98
+Episode 99 : -18579.31
+Episode 100 : -15686.72
+Episode 101 : -17384.27
+Episode 102 : -16995.67
+Episode 103 : -15657.83
+Episode 104 : -12891.08
+Episode 105 : -15715.51
+Episode 106 : -18217.55
+Episode 107 : -16335.43
+Episode 108 : -16887.67
+Episode 109 : -17117.56
+Episode 110 : -18238.32
+Episode 111 : -19796.80
+Episode 112 : -19528.16
+Episode 113 : -17082.94
+Episode 114 : -18789.25
+Episode 115 : -18101.43
+Episode 116 : -16822.41
+Episode 117 : -16091.44
+Episode 118 : -17359.71
+Episode 119 : -20220.14
+Episode 120 : -17942.46
+Episode 121 : -18986.37
+Episode 122 : -17640.31
+Episode 123 : -17071.20
+Episode 124 : -19198.58
+Episode 125 : -18886.34
+Episode 126 : -16991.56
+Episode 127 : -18474.70
+Episode 128 : -16889.31
+Episode 129 : -16226.53
+Episode 130 : -16567.59
+Episode 131 : -17085.20
+Episode 132 : -16345.79
+Episode 133 : -15750.38
+Episode 134 : -14489.41
+Episode 135 : -16344.81
+Episode 136 : -15852.06
+Episode 137 : -19617.66
+Episode 138 : -16293.02
+Episode 139 : -1990.06
+Episode 140 : -17764.94
+Episode 141 : -19422.65
+Episode 142 : -16218.52
+Episode 143 : -17854.51
+Episode 144 : -17316.63
+Episode 145 : -14081.19
+Episode 146 : -18406.84
+Episode 147 : -16595.62
+Episode 148 : -19183.75
+Episode 149 : -16644.88
+Episode 150 : -18669.85
+Episode 151 : -15123.79
+Episode 152 : -14329.66
+Episode 153 : -16985.43
+Episode 154 : -17328.52
+Episode 155 : -16116.79
+Episode 156 : -15696.30
+Episode 157 : -17367.05
+Episode 158 : -15313.78
+Episode 159 : -16019.41
+Episode 160 : -18715.68
+Episode 161 : -16637.42
+Episode 162 : -15741.81
+Episode 163 : -16321.92
+Episode 164 : -17397.05
+Episode 165 : -19053.93
+Episode 166 : -17676.35
+Episode 167 : -17342.28
+Episode 168 : -17193.33
+Episode 169 : -16231.51
+Episode 170 : -1407.32
+Episode 171 : -16088.94
+Episode 172 : -16453.32
+Episode 173 : -17454.30
+Episode 174 : -15144.90
+Episode 175 : -17371.80
+Episode 176 : -16162.19
+Episode 177 : -15453.37
+Episode 178 : -18053.34
+Episode 179 : -19815.79
+Episode 180 : -17830.70
+Episode 181 : -15075.19
+Episode 182 : -16198.08
+Episode 183 : -16623.10
+Episode 184 : -19889.06
+Episode 185 : -16643.45
+Episode 186 : -16333.64
+Episode 187 : -15676.60
+Episode 188 : -15928.32
+Episode 189 : -20304.70
+Episode 190 : -16643.07
+Episode 191 : -16053.47
+Episode 192 : -15279.46
+Episode 193 : -16268.81
+Episode 194 : -19921.33
+Episode 195 : -16271.99
+Episode 196 : -13696.64
+Episode 197 : -15517.64
+Episode 198 : -17705.12
+Episode 199 : -16453.53
+
+第一阶段时间为：26.236793599906377
+200回合，每个回合1000步的情况下
+第二阶段时间为：664.0558576000622
+总时间为：690.2926511999685
+
+训练集各项指标：
+评价指标MAE的值为：18.727645150484033
+评价指标RMSE的值为：24.61764088558175
+评价指标CV的值为：0.060984477604428086
+评价指标R^2的值：1.001831166493428
+====================================================================
+测试集各项指标：
+评价指标MAE的值为：30.791331967213097
+评价指标RMSE的值为：47.44264014607592
+评价指标CV的值为：0.12863472973438417
+评价指标R^2的值：0.9306037555307248
